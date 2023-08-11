@@ -19,7 +19,7 @@ platforms:
   windows:
 
 dependencies:
-  ffi: ^2.0.2
+  ffi: ^1.2.0
 
 dev_dependencies:
   # Handle command-line arguments for example apps.
